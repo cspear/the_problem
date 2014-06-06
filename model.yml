@@ -1,0 +1,12 @@
+# model of dependencies
+TELNET
+- TCPIP
+- NETCARD
+TCPIP
+- NETCARD
+DNS
+- TCPIP
+- NETCARD
+BROWSER
+- TCPIP
+- HTML
